@@ -39,6 +39,12 @@ Game Name:
 - Enter the name of the game in assets/gamename.txt
 - (important)
 
+Running:
+- When you have all of your stuff done, run the .exe file.
+
+Exporting:
+- When submitting this project to something send the entire game folder, and not just the .exe
+
 -- C R E D I T S --
 James Young did all of the coding.
 If there is a bug or something contact me on Discord --> C_BCA#6095
